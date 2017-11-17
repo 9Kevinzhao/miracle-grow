@@ -29,4 +29,4 @@ function main(){
 //main();
 
 module.exports = Random;
-main()
+//main()
